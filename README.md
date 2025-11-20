@@ -1,12 +1,59 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# UNNATI 
 
-Currently, two official plugins are available:
+Unnati is a professional, responsive website designed for a child development and therapy center.
+The goal of this website is to provide a clean, trustworthy platform where parents can learn about services, approach therapists, and book consultations easily.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨Features
+Modern, calming UI
 
-## Expanding the ESLint configuration
+Fully responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Services pages (OT, Speech Therapy, Special Education, etc.)
+
+WhatsApp + Call CTAs
+
+Testimonials section
+
+Fast-loading & optimized
+
+User-friendly navigation
+## 🛠 Tech Stack
+
+🎨Frontend:
+
+⚛️ React JS for building component-based UI.
+
+🎀 Tailwind CSS for fast, responsive, utility-first styling.
+
+🔸 JavaScript (ES6+) for logic and interactivity.
+
+⚡ ⚡ ⚡
+
+🔧 State & Routing:
+
+🎣 React Hooks for managing state and component logic.
+
+🧭 React Router (if used) for navigation and page routing.
+
+⚡ ⚡ ⚡
+
+🖼️ Design & Assets:
+
+🎨Figma for UI designing and graphics.
+
+🖼️Custom icons, illustrations, and branded visuals.
+
+⚡ ⚡ ⚡
+
+
+
+🛠️ Development Tools:
+
+💻 VS Code as the primary editor.
+
+🟢 Node.js and npm for project setup and dependencies.
+
+✨Prettier  for clean and formatted code (optional).
+## ❤️ Acknowledgements
+Designed & developed for Unnati — supporting every child’s growth with care.
